@@ -7,9 +7,9 @@
 		"ownerReplyCount": 10,
 		"reviewAvg": 4.53225806451613,
 		"reviewCount": 124,
-		"section": "section1",
-		"sectionTitle": "슈퍼레드위크",
+		"sectionTitle": "우리동네 플러스",
 		"isPhoneOrderAvailable": true,
+        "delivery_method": "VD",
 		"payment": [
 			"yogiseo",
 			"offline"
@@ -23,9 +23,9 @@
 		"ownerReplyCount": 0,
 		"reviewAvg": 5.0,
 		"reviewCount": 1,
-		"section": "section1",
-		"sectionTitle": "슈퍼레드위크",
+		"sectionTitle": "우리동네 플러스",
 		"isPhoneOrderAvailable": false,
+        "delivery_method": "OD",
 		"payment": [
 			"yogiseo",
 			"offline"
@@ -39,9 +39,9 @@
 		"ownerReplyCount": 0,
 		"reviewAvg": 4.48275862068965,
 		"reviewCount": 58,
-		"section": "section2",
-		"sectionTitle": "우리동네플러스",
+		"sectionTitle": "우리동네 플러스",
 		"isPhoneOrderAvailable": true,
+        "delivery_method": "VD",
 		"payment": [
 			"yogiseo"
 		]
@@ -54,9 +54,9 @@
 		"ownerReplyCount": 0,
 		"reviewAvg": 4.32558139534884,
 		"reviewCount": 172,
-		"section": "section2",
-		"sectionTitle": "우리동네플러스",
+		"sectionTitle": "우리동네 플러스",
 		"isPhoneOrderAvailable": false,
+        "delivery_method": "VD",
 		"payment": [
 			"yogiseo",
 			"offline"
@@ -70,9 +70,9 @@
 		"ownerReplyCount": 0,
 		"reviewAvg": 0.0,
 		"reviewCount": 0,
-		"section": "section2",
-		"sectionTitle": "우리동네플러스",
+		"sectionTitle": "우리동네 플러스",
 		"isPhoneOrderAvailable": true,
+        "delivery_method": "VD",
 		"payment": [
 			"yogiseo",
 			"offline"
@@ -86,9 +86,9 @@
 		"ownerReplyCount": 20,
 		"reviewAvg": 4.71428571428571,
 		"reviewCount": 35,
-		"section": "section3",
-		"sectionTitle": "요기요 등록 음식점",
+		"sectionTitle": "슈퍼레드위크 추천",
 		"isPhoneOrderAvailable": true,
+        "delivery_method": "VD",
 		"payment": [
 			"yogiseo",
 			"offline"
@@ -102,9 +102,9 @@
 		"ownerReplyCount": 0,
 		"reviewAvg": 4.52083333333333,
 		"reviewCount": 48,
-		"section": "section3",
-		"sectionTitle": "요기요 등록 음식점",
+		"sectionTitle": "슈퍼레드위크 추천",
 		"isPhoneOrderAvailable": false,
+        "delivery_method": "VD",
 		"payment": [
 			"yogiseo",
 			"offline"
@@ -118,9 +118,9 @@
 		"ownerReplyCount": 0,
 		"reviewAvg": 4.30612244897959,
 		"reviewCount": 49,
-		"section": "section3",
-		"sectionTitle": "요기요 등록 음식점",
+		"sectionTitle": "슈퍼레드위크 추천",
 		"isPhoneOrderAvailable": true,
+        "delivery_method": "VD",
 		"payment": [
 			"offline"
 		]
@@ -133,9 +133,9 @@
 		"ownerReplyCount": 0,
 		"reviewAvg": 4.36363636363636,
 		"reviewCount": 11,
-		"section": "section3",
-		"sectionTitle": "요기요 등록 음식점",
+		"sectionTitle": "슈퍼레드위크 추천",
 		"isPhoneOrderAvailable": true,
+        "delivery_method": "VD",
 		"payment": [
 			"yogiseo"
 		]
@@ -148,9 +148,9 @@
 		"ownerReplyCount": 0,
 		"reviewAvg": 4.12765957446809,
 		"reviewCount": 47,
-		"section": "section3",
-		"sectionTitle": "요기요 등록 음식점",
+		"sectionTitle": "슈퍼레드위크 추천",
 		"isPhoneOrderAvailable": true,
+        "delivery_method": "VD",
 		"payment": [
 			"yogiseo",
 			"offline"
@@ -164,9 +164,9 @@
 		"ownerReplyCount": 0,
 		"reviewAvg": 4.82857142857143,
 		"reviewCount": 70,
-		"section": "section3",
-		"sectionTitle": "요기요 등록 음식점",
+		"sectionTitle": "슈퍼레드위크 추천",
 		"isPhoneOrderAvailable": false,
+        "delivery_method": "VD",
 		"payment": [
 			"yogiseo",
 			"offline"
