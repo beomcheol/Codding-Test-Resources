@@ -1,175 +1,131 @@
-[
-    {
-        "isAvailablePickup": true,
-        "logoUrl": "https://dl.dropboxusercontent.com/sh/s7ftuu3ljh68ip1/AACLmHWdHjP57HSp5EebC4xca/BBQ.jpg?dl=0",
-        "isLong": false,
-        "name": "BBQ-김포마송점",
-        "ownerReplyCount": 10,
-        "reviewAvg": 4.53225806451613,
-        "reviewCount": 124,
-        "sectionTitle": "우리동네 플러스",
-        "isPhoneOrderAvailable": true,
-        "deliveryMethod": "VD",
-        "payment": [
-            "yogiseo",
-            "offline"
-        ]
-    },
-    {
-        "isAvailablePickup": false,
-        "logoUrl": "https://dl.dropboxusercontent.com/sh/s7ftuu3ljh68ip1/AAB-39JKNTo3NYHDUwxmK8qCa/S0182575_20150127182323.png?dl=0",
-        "isLong": true,
-        "name": "매운총각네",
-        "ownerReplyCount": 0,
-        "reviewAvg": 5.0,
-        "reviewCount": 1,
-        "sectionTitle": "우리동네 플러스",
-        "isPhoneOrderAvailable": false,
-        "deliveryMethod": "OD",
-        "payment": [
-            "yogiseo",
-            "offline"
-        ]
-    },
-    {
-        "isAvailablePickup": false,
-        "logoUrl": "https://dl.dropboxusercontent.com/sh/s7ftuu3ljh68ip1/AAAZQ5VdPrUOjH3odUAJKAyHa/ggatnip.JPG?dl=0",
-        "isLong": false,
-        "name": "깻잎두마리칩킨-통진점",
-        "ownerReplyCount": 0,
-        "reviewAvg": 4.48275862068965,
-        "reviewCount": 58,
-        "sectionTitle": "우리동네 플러스",
-        "isPhoneOrderAvailable": true,
-        "deliveryMethod": "VD",
-        "payment": [
-            "yogiseo"
-        ]
-    },
-    {
-        "isAvailablePickup": false,
-        "logoUrl": "https://dl.dropboxusercontent.com/sh/s7ftuu3ljh68ip1/AACmRnwQgkOsfWbWOn2WjObva/bhc.JPG?dl=0",
-        "isLong": false,
-        "name": "BHC-마송점",
-        "ownerReplyCount": 0,
-        "reviewAvg": 4.32558139534884,
-        "reviewCount": 172,
-        "sectionTitle": "우리동네 플러스",
-        "isPhoneOrderAvailable": false,
-        "deliveryMethod": "VD",
-        "payment": [
-            "yogiseo",
-            "offline"
-        ]
-    },
-    {
-        "isAvailablePickup": false,
-        "logoUrl": "https://dl.dropboxusercontent.com/sh/s7ftuu3ljh68ip1/AABT0fCkyCxRQwMPwCVogQPya/pigfoot.jpg?dl=0",
-        "isLong": false,
-        "name": "장충동본가왕족발보쌈-양곡본점",
-        "ownerReplyCount": 0,
-        "reviewAvg": 0.0,
-        "reviewCount": 0,
-        "sectionTitle": "우리동네 플러스",
-        "isPhoneOrderAvailable": true,
-        "deliveryMethod": "VD",
-        "payment": [
-            "yogiseo",
-            "offline"
-        ]
-    },
-    {
-        "isAvailablePickup": false,
-        "logoUrl": "https://dl.dropboxusercontent.com/sh/s7ftuu3ljh68ip1/AAA6yVGx3oJI8TpSsFHsf6P_a/mrpizza.JPG?dl=0",
-        "isLong": false,
-        "name": "미스터피자-통진점",
-        "ownerReplyCount": 20,
-        "reviewAvg": 4.71428571428571,
-        "reviewCount": 35,
-        "sectionTitle": "슈퍼레드위크 추천",
-        "isPhoneOrderAvailable": true,
-        "deliveryMethod": "VD",
-        "payment": [
-            "yogiseo",
-            "offline"
-        ]
-    },
-    {
-        "isAvailablePickup": false,
-        "logoUrl": "https://dl.dropboxusercontent.com/sh/s7ftuu3ljh68ip1/AAAm39emj2ZSMCp6N0pfPSdRa/goobne.JPG?dl=0",
-        "isLong": false,
-        "name": "굽네치킨-통진점",
-        "ownerReplyCount": 0,
-        "reviewAvg": 4.52083333333333,
-        "reviewCount": 48,
-        "sectionTitle": "슈퍼레드위크 추천",
-        "isPhoneOrderAvailable": false,
-        "deliveryMethod": "VD",
-        "payment": [
-            "yogiseo",
-            "offline"
-        ]
-    },
-    {
-        "isAvailablePickup": false,
-        "logoUrl": "https://dl.dropboxusercontent.com/sh/s7ftuu3ljh68ip1/AACDYxhcXTE_XtxpdlZKSJP3a/ddoraeorae.jpg?dl=0",
-        "isLong": false,
-        "name": "또래오래-김포마송점",
-        "ownerReplyCount": 0,
-        "reviewAvg": 4.30612244897959,
-        "reviewCount": 49,
-        "sectionTitle": "슈퍼레드위크 추천",
-        "isPhoneOrderAvailable": true,
-        "deliveryMethod": "VD",
-        "payment": [
-            "offline"
-        ]
-    },
-    {
-        "isAvailablePickup": false,
-        "logoUrl": "https://dl.dropboxusercontent.com/sh/s7ftuu3ljh68ip1/AACEZ0ijREib5oMDGRAeTD5ya/onegrandmother.jpg?dl=0",
-        "isLong": false,
-        "name": "원할머니보쌈-김포통진점",
-        "ownerReplyCount": 0,
-        "reviewAvg": 4.36363636363636,
-        "reviewCount": 11,
-        "sectionTitle": "슈퍼레드위크 추천",
-        "isPhoneOrderAvailable": true,
-        "deliveryMethod": "VD",
-        "payment": [
-            "yogiseo"
-        ]
-    },
-    {
-        "isAvailablePickup": false,
-        "logoUrl": "https://dl.dropboxusercontent.com/sh/s7ftuu3ljh68ip1/AACwZ_814mEN32jIHe0ywWKza/supizza.jpg?dl=0",
-        "isLong": false,
-        "name": "수피자-통진점",
-        "ownerReplyCount": 0,
-        "reviewAvg": 4.12765957446809,
-        "reviewCount": 47,
-        "sectionTitle": "슈퍼레드위크 추천",
-        "isPhoneOrderAvailable": true,
-        "deliveryMethod": "VD",
-        "payment": [
-            "yogiseo",
-            "offline"
-        ]
-    },
-    {
-        "isAvailablePickup": false,
-        "logoUrl": "https://dl.dropboxusercontent.com/sh/s7ftuu3ljh68ip1/AAARD8tUmm4NWFxm3PR-RkVka/obbapig.jpg?dl=0",
-        "isLong": false,
-        "name": "오빠돼지-김포구래7호점",
-        "ownerReplyCount": 0,
-        "reviewAvg": 4.82857142857143,
-        "reviewCount": 70,
-        "sectionTitle": "슈퍼레드위크 추천",
-        "isPhoneOrderAvailable": false,
-        "deliveryMethod": "VD",
-        "payment": [
-            "yogiseo",
-            "offline"
-        ]
-    }
-]
+[{
+    "isAvailablePickup": false,
+    "logoUrl": "https://raw.githubusercontent.com/beomcheol/ios-codding-test-resources/master/thumbnails/롯데리아_20200428_Franchise_crop_200x200.jpg",
+    "name": "롯데리아-남부터미널점",
+    "deliveryMethod": "OD",
+    "isPhoneOrderAvailable": true,
+    "reviewCount": 707,
+    "ownerReplyCount": 0,
+    "sectionTitle": "우리동네 플러스",
+    "reviewAvg": 4.7,
+    "payment": [
+        "yogiseo",
+        "offline"]
+}, {
+    "isAvailablePickup": false,
+    "logoUrl": "https://raw.githubusercontent.com/beomcheol/ios-codding-test-resources/master/thumbnails/BHC_20191014_Franchise_crop_200x200_hY0tGRI.jpg",
+    "name": "BHC-서초교대점",
+    "deliveryMethod": "VD",
+    "isPhoneOrderAvailable": true,
+    "reviewCount": 1729,
+    "ownerReplyCount": 0,
+    "sectionTitle": "우리동네 플러스",
+    "reviewAvg": 4.6,
+    "payment": [
+        "yogiseo",
+        "offline"]
+}, {
+    "isAvailablePickup": false,
+    "logoUrl": "https://raw.githubusercontent.com/beomcheol/ios-codding-test-resources/master/thumbnails/BBQ_20160928_Franchise이미지약정서_crop_200x200_AxtSe6b.jpg",
+    "name": "BBQ-교대본점",
+    "deliveryMethod": "VD",
+    "isPhoneOrderAvailable": true,
+    "reviewCount": 996,
+    "ownerReplyCount": 4,
+    "sectionTitle": "우리동네 플러스",
+    "reviewAvg": 4.6,
+    "payment": [
+        "yogiseo",
+        "offline"]
+}, {
+    "isAvailablePickup": true,
+    "logoUrl": "https://raw.githubusercontent.com/beomcheol/ios-codding-test-resources/master/thumbnails/배달삼겹직구삼_20171212_Franchise이미지약정서_crop_200x200.jpg",
+    "name": "배달삼겹직구삼-이수역점",
+    "deliveryMethod": "VD",
+    "isPhoneOrderAvailable": true,
+    "reviewCount": 661,
+    "ownerReplyCount": 633,
+    "sectionTitle": "우리동네 플러스",
+    "reviewAvg": 4.6,
+    "payment": [
+        "yogiseo",
+        "offline"]
+}, {
+    "isAvailablePickup": true,
+    "logoUrl": "https://raw.githubusercontent.com/beomcheol/ios-codding-test-resources/master/thumbnails/페리카나_20190430_Franchise_crop_200x200.png",
+    "name": "페리카나-서초동점",
+    "deliveryMethod": "VD",
+    "isPhoneOrderAvailable": true,
+    "reviewCount": 1718,
+    "ownerReplyCount": 0,
+    "sectionTitle": "슈퍼레드위크 추천",
+    "reviewAvg": 4.5,
+    "payment": [
+        "yogiseo",
+        "offline"]
+}, {
+    "isAvailablePickup": false,
+    "logoUrl": "https://raw.githubusercontent.com/beomcheol/ios-codding-test-resources/master/thumbnails/7번가피자_20160205_Franchise이미지약정서_crop_200x200_PXVSv6U.jpg",
+    "name": "7번가피자-서초교대점",
+    "deliveryMethod": "VD",
+    "isPhoneOrderAvailable": true,
+    "reviewCount": 608,
+    "ownerReplyCount": 595,
+    "sectionTitle": "슈퍼레드위크 추천",
+    "reviewAvg": 4.9,
+    "payment": [
+        "yogiseo",
+        "offline"]
+}, {
+    "isAvailablePickup": false,
+    "logoUrl": "https://raw.githubusercontent.com/beomcheol/ios-codding-test-resources/master/thumbnails/후라이드참잘하는집_20170329_Franchise이미지약정서_crop_200x200.JPG",
+    "name": "후라이드참잘하는집-역삼점",
+    "deliveryMethod": "VD",
+    "isPhoneOrderAvailable": true,
+    "reviewCount": 1659,
+    "ownerReplyCount": 0,
+    "sectionTitle": "슈퍼레드위크 추천",
+    "reviewAvg": 4.7,
+    "payment": [
+        "yogiseo",
+        "offline"]
+}, {
+    "isAvailablePickup": false,
+    "logoUrl": "https://raw.githubusercontent.com/beomcheol/ios-codding-test-resources/master/thumbnails/피자헛_20170612_Franchise이미지약정서_crop_200x200.jpg",
+    "name": "피자헛-서울고점",
+    "deliveryMethod": "VD",
+    "isPhoneOrderAvailable": true,
+    "reviewCount": 847,
+    "ownerReplyCount": 10,
+    "sectionTitle": "슈퍼레드위크 추천",
+    "reviewAvg": 4.7,
+    "payment": [
+        "yogiseo",
+        "offline"]
+}, {
+    "isAvailablePickup": true,
+    "logoUrl": "https://raw.githubusercontent.com/beomcheol/ios-codding-test-resources/master/thumbnails/쫄면주는삼겹본능_20180618_Franchise이미지약정서_crop_200x200.jpg",
+    "name": "쫄면주는삼겹본능-방배점",
+    "deliveryMethod": "VD",
+    "isPhoneOrderAvailable": true,
+    "reviewCount": 466,
+    "ownerReplyCount": 464,
+    "sectionTitle": "슈퍼레드위크 추천",
+    "reviewAvg": 4.8,
+    "payment": [
+        "yogiseo",
+        "offline"]
+}, {
+    "isAvailablePickup": false,
+    "logoUrl": "https://raw.githubusercontent.com/beomcheol/ios-codding-test-resources/master/thumbnails/놀부보쌈_20200224_Franchise_crop_200x200.jpg",
+    "name": "놀부보쌈-남성점",
+    "deliveryMethod": "VD",
+    "isPhoneOrderAvailable": true,
+    "reviewCount": 1000,
+    "ownerReplyCount": 29,
+    "sectionTitle": "슈퍼레드위크 추천",
+    "reviewAvg": 4.5,
+    "payment": [
+        "yogiseo",
+        "offline"]
+}]
